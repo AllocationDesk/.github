@@ -4,4 +4,4 @@ Resource Booking Software, Open Source, tba.
 
 Made in Germany 🇪🇺
 
-❤️🧡💛💚💙💜
+❤️🧡💛💚💙💜🩷🩵🤍🤎
