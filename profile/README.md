@@ -5,5 +5,3 @@ Resource Booking Software, Open Source, tba.
 Made in Germany 🇪🇺
 
 ❤️🧡💛💚💙💜🩷🩵🤍🤎
-
-This is the homepage for allocationdesk.de for now.
