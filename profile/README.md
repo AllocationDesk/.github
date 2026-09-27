@@ -1,4 +1,4 @@
-# <img width="1856" height="352" alt="AllocationDesk" src="https://github.com/user-attachments/assets/486397b0-4b5d-4876-aa10-8b3287fcc3f6" />
+# <img width="2640" height="352" alt="Open Resource Manager" src="https://github.com/user-attachments/assets/2953a1c8-e76c-4c56-8c56-40f33be00f2f" />
 
 Resource Booking Software, Open Source, tba.
 
